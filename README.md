@@ -3,6 +3,7 @@
 
 ![Captura de tela de 2024-10-14 02-06-55](https://github.com/user-attachments/assets/96f75d9c-87f8-4159-a2f4-fa9cf467aab2)
 
+![Plano Cartesiano](https://github.com/user-attachments/assets/62cdf321-c24a-4db3-9c69-9e0737448b28)
 
 
 🌟 Projeto de Desenhos Geométricos em C++
