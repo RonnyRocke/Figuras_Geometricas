@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1728849299 source:/home/default1/Documentos/CursoMarcosPacheco/Projetinho/mostra_quadrado.cpp
+	<iostream>
+	<vector>
+	<GL/gl.h>
+	<GL/glut.h>
+	<GL/glu.h>
+	<string>
+
